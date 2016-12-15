@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M1", "DEV204x\M1.csproj", "{C22C6CAD-9443-4CE8-9909-6BACB8D97A86}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M1", "m1\M1.csproj", "{C22C6CAD-9443-4CE8-9909-6BACB8D97A86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2", "M2\M2.csproj", "{C8F8E909-DD86-4AA0-BD7E-754206DEF9A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2", "m2\M2.csproj", "{C8F8E909-DD86-4AA0-BD7E-754206DEF9A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

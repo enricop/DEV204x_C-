@@ -5,6 +5,7 @@ namespace DEV204x
 	class Student {
 		string FirstName;
 		string LastName;
+		// tip: use "DateTime" type next time
 		int BirthdateYear;
 		int BirthdateMonth;
 		int BirthdateDay;
