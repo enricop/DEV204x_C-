@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2", "m2\M2.csproj", "{C8F8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m3", "m3\m3.csproj", "{5379BF8D-AF6D-4EA3-A694-AB2CD4301E52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m4", "m4\m4.csproj", "{6F5A8B23-4BE1-463F-B79A-791EC2EEEB93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -17,6 +19,10 @@ Global
 		{5379BF8D-AF6D-4EA3-A694-AB2CD4301E52}.Debug|x86.Build.0 = Debug|x86
 		{5379BF8D-AF6D-4EA3-A694-AB2CD4301E52}.Release|x86.ActiveCfg = Release|x86
 		{5379BF8D-AF6D-4EA3-A694-AB2CD4301E52}.Release|x86.Build.0 = Release|x86
+		{6F5A8B23-4BE1-463F-B79A-791EC2EEEB93}.Debug|x86.ActiveCfg = Debug|x86
+		{6F5A8B23-4BE1-463F-B79A-791EC2EEEB93}.Debug|x86.Build.0 = Debug|x86
+		{6F5A8B23-4BE1-463F-B79A-791EC2EEEB93}.Release|x86.ActiveCfg = Release|x86
+		{6F5A8B23-4BE1-463F-B79A-791EC2EEEB93}.Release|x86.Build.0 = Release|x86
 		{C22C6CAD-9443-4CE8-9909-6BACB8D97A86}.Debug|x86.ActiveCfg = Debug|x86
 		{C22C6CAD-9443-4CE8-9909-6BACB8D97A86}.Debug|x86.Build.0 = Debug|x86
 		{C22C6CAD-9443-4CE8-9909-6BACB8D97A86}.Release|x86.ActiveCfg = Release|x86
