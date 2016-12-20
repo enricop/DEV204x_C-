@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DEV204x
+namespace m3
 {
 	class Student {
 		string FirstName;

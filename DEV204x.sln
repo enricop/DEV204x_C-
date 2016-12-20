@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m4", "m4\m4.csproj", "{6F5A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m5", "m5\m5.csproj", "{AEB3952F-FF4C-4DF9-8D25-10A6A53AAADE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m6", "m6\m6.csproj", "{F60CA51D-2CF3-4F06-B6B5-E97FB88B51C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,5 +39,9 @@ Global
 		{C8F8E909-DD86-4AA0-BD7E-754206DEF9A5}.Debug|x86.Build.0 = Debug|x86
 		{C8F8E909-DD86-4AA0-BD7E-754206DEF9A5}.Release|x86.ActiveCfg = Release|x86
 		{C8F8E909-DD86-4AA0-BD7E-754206DEF9A5}.Release|x86.Build.0 = Release|x86
+		{F60CA51D-2CF3-4F06-B6B5-E97FB88B51C0}.Debug|x86.ActiveCfg = Debug|x86
+		{F60CA51D-2CF3-4F06-B6B5-E97FB88B51C0}.Debug|x86.Build.0 = Debug|x86
+		{F60CA51D-2CF3-4F06-B6B5-E97FB88B51C0}.Release|x86.ActiveCfg = Release|x86
+		{F60CA51D-2CF3-4F06-B6B5-E97FB88B51C0}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

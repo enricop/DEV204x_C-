@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DEV204x
+namespace m5
 {
 	class Student {
 		public string FirstName {get; set;}
