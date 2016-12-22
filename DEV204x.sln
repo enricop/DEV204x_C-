@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m6", "m6\m6.csproj", "{F60C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m7", "m7\m7.csproj", "{F4688C20-D55B-451B-805D-E67FDAFCE192}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m8", "m8\m8.csproj", "{DB36F872-DDAD-4317-AA64-A7D1D6EE3E2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -41,6 +43,10 @@ Global
 		{C8F8E909-DD86-4AA0-BD7E-754206DEF9A5}.Debug|x86.Build.0 = Debug|x86
 		{C8F8E909-DD86-4AA0-BD7E-754206DEF9A5}.Release|x86.ActiveCfg = Release|x86
 		{C8F8E909-DD86-4AA0-BD7E-754206DEF9A5}.Release|x86.Build.0 = Release|x86
+		{DB36F872-DDAD-4317-AA64-A7D1D6EE3E2D}.Debug|x86.ActiveCfg = Debug|x86
+		{DB36F872-DDAD-4317-AA64-A7D1D6EE3E2D}.Debug|x86.Build.0 = Debug|x86
+		{DB36F872-DDAD-4317-AA64-A7D1D6EE3E2D}.Release|x86.ActiveCfg = Release|x86
+		{DB36F872-DDAD-4317-AA64-A7D1D6EE3E2D}.Release|x86.Build.0 = Release|x86
 		{F4688C20-D55B-451B-805D-E67FDAFCE192}.Debug|x86.ActiveCfg = Debug|x86
 		{F4688C20-D55B-451B-805D-E67FDAFCE192}.Debug|x86.Build.0 = Debug|x86
 		{F4688C20-D55B-451B-805D-E67FDAFCE192}.Release|x86.ActiveCfg = Release|x86
