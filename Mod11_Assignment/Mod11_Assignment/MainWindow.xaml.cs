@@ -38,10 +38,11 @@ namespace Mod11_Assignment
             newStudent.City = txtCity.Text;
             ClearForm();
 
-            AddToCollection(newStudent);
+            // Add a student in a different thread. Non-blocking the GUI.
+            Task task1 = new Task(() => AddToCollection(newStudent));
+            task1.Start();
         }
 
-        
         private void AddToCollection(Student student)
         {
             // This line of code is intended to simulate network or database latency
@@ -52,6 +53,7 @@ namespace Mod11_Assignment
             students.Add(student);
             int count = students.Count;
             MessageBox.Show("Student created successfully.  Collection contains " + count.ToString() + " Student(s).");
+            MessageBox.Show("Student Info: " + student.FirstName + " " + student.LastName + " " + student.City);
         }
 
         private void ClearForm()
